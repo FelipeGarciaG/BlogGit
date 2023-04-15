@@ -1,9 +1,10 @@
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: "Curier";
 }
 h1 {
     color:blue;
+    font-family: "Curier";
 }
 h2 {
     font-size: 18;
