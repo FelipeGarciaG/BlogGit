@@ -4,8 +4,16 @@ body {
 }
 h1 {
     color:blue;
-    padding-top: 5%;
+}
+h2 {
+    font-size: 18;
+    color: #9a9a9a;
 }
 p {
     color: black;
+}
+#cabecera {
+    background-color: #ddd;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
