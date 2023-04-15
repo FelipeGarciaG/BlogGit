@@ -3,7 +3,8 @@ body {
     font-family: "Arial";
 }
 h1 {
-    color:red;
+    color:blue;
+    padding-top: 5%;
 }
 p {
     color: black;
